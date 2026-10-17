@@ -8,7 +8,7 @@
 
 - [`lab2_multimodal_reviews_T4.ipynb`](lab2_multimodal_reviews_T4.ipynb) — выполненный блокнот с кодом, таблицами и графиком.
 - [`Отчет_лабораторная_2_мультимодальные_модели.docx`](Отчет_лабораторная_2_мультимодальные_модели.docx) — отчёт Word.
-- [Открыть блокнот в Colab](https://colab.research.google.com/drive/1sclLPDJ1oEjKyLvKO93PNRFcZQucXXFd?usp=sharing).
+- [Открыть публичную копию блокнота в Colab](https://colab.research.google.com/github/arinchees/lab2-multimodal-reviews-product-metrics/blob/main/lab2_multimodal_reviews_T4.ipynb).
 
 ## Данные и задача
 
